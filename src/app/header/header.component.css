@@ -27,6 +27,7 @@
   border: 1px solid hotpink;
   height: 35px;
   border-right: none;
+  padding-left: 8px;
 }
 .nav .nav-search button {
   color: hotpink;
